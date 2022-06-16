@@ -53,5 +53,5 @@ If you can’t malloc anymore, print the error message Error: malloc failed, fol
 You have to use malloc and free and are not allowed to use any other function from man malloc (realloc, calloc, …)
 AUTHORS
 This file lists all individuals having contributed content to the repository.
-Fisseha Yonas fissehayonas444gmail.com
-Christian Wondosen christianwondeson22@gmail.com
+Fisseha Yonas <fissehayonas444@gmail.com>
+Christian Wondosen <christianwondeson22@gmail.com>
